@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git helps us track changes to files, manage different versions of a project,
+collaborate with others, and recover previous versions if something goes wrong.
